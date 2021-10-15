@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QndWIH32xEuJG4B7sGMLLgyHmwllWxdOPjqDJkHlP7I/l+S2tr5Tj1n1m2wzHu2lDldoJc2n0rEoWKvRztVsrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego.scano\\source\\repos\\Test.Week6\\APIClient\\APIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.scano\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.csproj.AssemblyReference.cache
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.AssemblyInfoInputs.cache
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.AssemblyInfo.cs
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.csproj.CoreCompileInputs.cache
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\bin\Debug\netstandard2.0\CoreEF.deps.json
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\bin\Debug\netstandard2.0\CoreEF.dll
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\bin\Debug\netstandard2.0\CoreEF.pdb
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\bin\Debug\netstandard2.0\Core.dll
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.csproj.CopyComplete
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.dll
+C:\Users\diego.scano\source\repos\Test.Week6\CoreEF\obj\Debug\netstandard2.0\CoreEF.pdb
